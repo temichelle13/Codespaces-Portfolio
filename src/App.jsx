@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "tealarson-hetrick",
   medium: "",
   twitter: "TeaMichelle15",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
