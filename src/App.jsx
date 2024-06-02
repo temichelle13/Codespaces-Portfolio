@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "temichelle13",
   instagram: "larsontea",
   linkedIn: "tealarson-hetrick",
-  medium: "",
+  medium: "https://medium.com/@tealarson-hetrick", 
   twitter: "TeaMichelle15",
-  youTube: "",
+  youTube: "", 
 };
 
 const primaryColor = "#4E567E";

@@ -21,23 +21,24 @@ import image from "../images/motion-background.jpg";
 const imageAltText = "purple and blue abstract background";
 
 /**
- * Sort description that expands on your title on the Home component.
+ * Short description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am a dedicated student specializing in business and computer science. I enjoy finding creative ways to solve problems and develop unique, efficient solutions that enhance user experiences."
+  
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
-];
+  "Data Science",
+  "AI & Machine Learning",
+  "Cryptocurreny & Web3",
+  "Coding & Developing",
+  "Business & Leadership",
+  "Scientific Research",
+  "Writng Articles and Publications"
+];n
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  ""I am dedicated to solving problems through innovative and creative solutions. With my extensive experience in programming and development, I continuously seek new and improved methods to make technology more accessible for everyone. By leveraging my skills in AI and coding, I strive to create impactful applications and research that drive innovation and inclusivity in the tech world."
 
 const About = () => {
   return (
